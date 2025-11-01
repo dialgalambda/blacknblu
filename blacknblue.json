@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "version": "0.0.1",
+        "name": "blacknblu",
+        "transparency_mode": 0,
+        "license": "do whatever you want",
+        "author": "dialgalambda"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/dialgalambda\/blacknblu\/refs\/heads\/main\/background.jpg"
+    },
+    "simple_colors": {
+        "background": -15921386,
+        "background_secondary": -15856113,
+        "statusbar": -15987700,
+        "mention_highlight": 1397461973,
+        "accent": -9459234
+    },
+    "colors": {
+        "primary_700": -15260882,
+        "white_500": -2890771,
+        "primary_dark_630": -15460580,
+        "primary_dark_300": -12216372,
+        "primary_dark_360": -8996123,
+        "primary_dark_200": -7745799,
+        "primary_dark_660": -15921907,
+        "link": -12683521,
+        "brand_new_260": -3613958,
+        "brand_500_alpha_20": 861394929,
+        "primary_dark_330": -12216372,
+        "brand_new_560": -12216372,
+        "status_yellow_500_alpha_10": 437948922,
+        "status_yellow_500": -11815173,
+        "primary_dark_800": -15856113
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -15460311,
+        "drawable_bg_reaction_dark": -16053493,
+        "drawable_reaction_text_color_dark": -9459234
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/dialgalambda\/blacknblu\/raw\/refs\/heads\/main\/MS%20Gothic.ttf"
+    },
+    "raws": {}
+}
