@@ -1,50 +1,48 @@
 {
-  "manifest": {
-    "author": "dialgalambda",
-    "version": "0.0.1",
-    "name": "blacknblu",
-    "license": "do whatever you want",
-    "transparency_mode": 0
-  },
-  "background": {
-    "url": "https://raw.githubusercontent.com/dialgalambda/blacknblu/refs/heads/main/background.jpg"
-  },
-  "fonts": {
-    "*": "https://github.com/dialgalambda/blacknblu/raw/refs/heads/main/unifont-16.0.02.otf"
-  },
-  "simple_colors": {
-    "background": -15921386,
-    "background_secondary": -15856113,
-    "statusbar": -15987700,
-    "mention_highlight": 1397461973,
-    "accent": -9459234
-  },
-  "colors": {
-    "primary_700": -15260882,
-    "white_500": -3281921,
-    "primary_dark_630": -15460580,
-    "primary_dark_300": -11815173,
-    "primary_dark_360": -8996123,
-    "primary_dark_200": -9387532,
-    "primary_dark_660": -15921907,
-    "link": -12683521,
-    "brand_new_260": -3613958,
-    "brand_500_alpha_20": 861394929,
-    "primary_dark_330": -12216372,
-    "brand_new_560": -12216372,
-    "status_yellow_500_alpha_10": 437948922,
-    "status_yellow_500": -11815173,
-    "primary_dark_800": -15856113,
-    "primary_dark_400": -9053980,
-    "uikit_settings_item_text_color_light": -11815173
-  },
-  "drawable_tints": {
-    "drawable_overlay_channels_selected_dark": -14467752,
-    "drawable_bg_reaction_dark": -1055448016,
-    "drawable_reaction_text_color_dark": -9459234,
-    "ic_sidebar_notifications_on_dark_24dp": -11815173,
-    "ic_sidebar_pins_off_dark_24dp": -11815173,
-    "ic_channel_text": -11815173
-  },
-  "raws": {}
+    "manifest": {
+        "author": "dialgalambda",
+        "version": "0.0.1",
+        "name": "blacknblu",
+        "license": "do whatever you want",
+        "transparency_mode": 0
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/dialgalambda\/blacknblu\/raw\/refs\/heads\/main\/unifont-16.0.02.otf"
+    },
+    "simple_colors": {
+        "background": -15921386,
+        "background_secondary": -15856113,
+        "statusbar": -15987700,
+        "mention_highlight": 1397461973,
+        "accent": -9459234
+    },
+    "colors": {
+        "primary_700": -15260882,
+        "white_500": -3281921,
+        "primary_dark_630": -15460580,
+        "primary_dark_300": -11815173,
+        "primary_dark_360": -8996123,
+        "primary_dark_200": -9387532,
+        "primary_dark_660": -15921907,
+        "link": -12683521,
+        "brand_new_260": -3613958,
+        "brand_500_alpha_20": 861394929,
+        "primary_dark_330": -12216372,
+        "brand_new_560": -12216372,
+        "status_yellow_500_alpha_10": 437948922,
+        "status_yellow_500": -11815173,
+        "primary_dark_800": -15856113,
+        "primary_dark_400": -9053980,
+        "uikit_settings_item_text_color_light": -11815173
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -14467752,
+        "drawable_bg_reaction_dark": -1555328043,
+        "drawable_reaction_text_color_dark": -9459234,
+        "ic_sidebar_notifications_on_dark_24dp": -11815173,
+        "ic_sidebar_pins_off_dark_24dp": -11815173,
+        "ic_channel_text": -11815173
+    },
+    "raws": {}
 }
