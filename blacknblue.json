@@ -39,7 +39,7 @@
         "drawable_reaction_text_color_dark": -9459234
     },
     "fonts": {
-        "*": "https:\/\/github.com\/dialgalambda\/blacknblu\/raw\/refs\/heads\/main\/MS%20Gothic.ttf"
+        "*": "https:\/\/github.com\/dialgalambda\/blacknblu\/raw\/refs\/heads\/main\/unifont-16.0.02.otf"
     },
     "raws": {}
 }
