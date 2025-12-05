@@ -24,6 +24,6 @@ no extra settings required.
 
 # other things to know about
 
-the theme has a custom background, turn on transparency for chat and settings if you want to see it. the theme will also use MS gothic font, which is optional and you can change it to whatever font you want!
+the theme will use GNU unifont, which is optional and you can change it to whatever font you want!
 
 this is my first time making a github repo so sorry for any flaws you see here 😔
